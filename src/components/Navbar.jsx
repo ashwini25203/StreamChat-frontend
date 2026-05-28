@@ -47,7 +47,7 @@ const Navbar = () => {
           <Link to="/profile">
           <div className="avatar">
             <div className="w-9 rounded-full">
-              <img src="public/user.png" alt="User Avatar" rel="noreferrer" />
+              <img src="/user.png" alt="User Avatar" rel="noreferrer" />
             </div>
           </div>
           </Link>

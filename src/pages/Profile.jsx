@@ -34,7 +34,7 @@ const Profile = () => {
               <div className="avatar">
                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
                   <img
-                    src="public/user.png"
+                    src="/user.png"
                     alt="profile"
                   />
                 </div>
@@ -101,7 +101,7 @@ const Profile = () => {
                     <div className="avatar">
                       <div className="w-12 rounded-full">
                         <img
-                          src="public/user.png"
+                          src="/user.png"
                           alt=""
                         />
                       </div>

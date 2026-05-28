@@ -109,7 +109,7 @@ const HomePage = () => {
                     <div className="card-body p-5 space-y-4">
                       <div className="flex items-center gap-3">
                         <div className="avatar size-16 rounded-full">
-                          <img src="public/user.png" alt={user.fullName} />
+                          <img src="/user.png" alt={user.fullName} />
                         </div>
 
                         <div>
